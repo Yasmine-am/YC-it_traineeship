@@ -40,3 +40,7 @@ form{
     border-radius: 15px;
     width: 50%;
 }
+
+.foto{
+    transform: rotate(20deg)
+}
