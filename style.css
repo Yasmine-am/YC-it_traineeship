@@ -1,0 +1,42 @@
+body{
+    background-color: #E7D6C6;
+    font-family: "Lucida Console", "Courier New", monospace;
+    padding: 25px;
+}
+
+table{
+    width: 50%;
+}
+
+th{
+    background-color: #c5a586;
+}
+
+tr{
+    background-color: #eee9e3;
+}
+
+button{
+    background-color: #c5a586;
+    border: none;
+    font-size: large;
+    text-align: center;
+    cursor: pointer;
+    padding: 15px;
+}
+
+select{
+   background-color: #c5a586;
+   appearance: none;
+   font-size: medium;
+   padding: 10px;
+   border: none;
+}
+
+form{
+    background-color: #eee9e3;
+    padding: 10px;
+    margin: 25px;
+    border-radius: 15px;
+    width: 50%;
+}
