@@ -41,6 +41,6 @@ form{
     width: 50%;
 }
 
-.foto{
-    transform: rotate(20deg)
+#foto{
+    transform: rotate(90deg)
 }
